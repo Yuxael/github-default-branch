@@ -1,5 +1,7 @@
 # GitHub Default Branch
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KhvqED3Ud48/0.jpg)](https://www.youtube.com/watch?v=KhvqED3Ud48)
+
 Rename your default branch on GitHub easily. By default it renames `master` to `main`, but is configurable using the `--new` and `--old` flags.
 
 If provided with an `--org` argument, it will run on all repositories within that organisation. Alternatively, you can provide a `--repo` argument to edit a single repo.
